@@ -1,11 +1,11 @@
 #  :email: :v: :eyeglasses: Проект по верстке Frelancer :eyeglasses: :v: :email:
 
-![ScreenRecorderProject1](https://github.com/user-attachments/assets/ba1cabef-1ea2-4ccb-ba53-22116bb73248)
+
+![ScreenRecorderProject1](https://github.com/user-attachments/assets/2695b70e-6504-43d7-bd2a-f721ba954228)
 
 
 
-Красивый HTML шаблон, с элементами адаптивности  :fire::fire::fire:
-- адаптивность :heavy_check_mark:
+Стильный HTML шаблон, который подойдет для анкеты с портфолио какого-нибудь фрилансера  :computer::computer::computer:
 - кроссбраузерность :heavy_check_mark:
 - bootstrap :heavy_check_mark:
 - JavaScript :heavy_multiplication_x:
