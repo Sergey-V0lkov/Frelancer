@@ -5,7 +5,7 @@
 
 
 
-Стильный HTML шаблон, который подойдет для анкеты с портфолио какого-нибудь фрилансера  :computer::computer::computer:
+Стильный HTML шаблон, который подойдет для анкеты с портфолио какого-нибудь фрилансера  :computer: :computer: :computer:
 - кроссбраузерность :heavy_check_mark:
 - bootstrap :heavy_check_mark:
 - JavaScript :heavy_multiplication_x:
