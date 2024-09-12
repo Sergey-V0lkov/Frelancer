@@ -1,0 +1,240 @@
+$color-red: #fa5c65;
+$color-grey: #314a5b;
+$text-color:#9aa0ab;
+
+
+
+
+
+
+
+header{
+	height: 1311px;
+	background-image: url(../img/man.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-size: cover;
+
+	.buttom{
+		a{
+			background-color: $color-red;
+			color: #fff;
+			display: block;
+			font-family:"Domine-Bold";
+			cursor: pointer;
+			padding: 44px 0 5px 22px;
+			font-size: 22px;
+			border-radius: 0 0 10px 10px;
+			text-decoration: none;
+			span{
+				color: #314a5b;
+				font-family: "Domine-Bold";
+				font-size: 22px;
+			}
+		}
+
+	}
+
+	.nav{
+		padding-top: 27px;
+		ul{
+			display: inline-block;
+			padding: 0;
+			margin:0;
+			li{
+				display: inline-block;
+
+				a{
+					color:$color-grey;
+					text-decoration: none;
+					font-family: "Montserrat-Regular";
+					text-transform: uppercase;
+					font-size: 16px;
+					padding-right: 33px;
+					i{
+						font-size: 20px;
+						color: $color-red;
+					}
+				}
+			}
+		}
+	}
+
+
+	.main{
+		font-size: 48px;
+		font-family: "Montserrat-Bold";
+		color: $color-grey;
+		text-transform: uppercase;
+		padding-top: 300px;
+		.main-point{
+			font-size: 48px;
+			color: $color-red;
+		}
+	}
+
+	h2{
+		color:$color-grey;
+		font-size: 22px;
+		font-family: 'Open Sans', sans-serif;
+		padding: 5px 0 42px 0;
+	}
+
+	.pad{
+		padding: 0;
+		.buttom2{
+			padding: 0  90px 0 0 ;
+			a{
+				border-radius: 10px;
+				font-family: "OpenSans-Bold";
+				padding: 22px 42px;
+				text-transform: uppercase;
+				font-size: 17px;
+
+
+			}
+		}
+	}
+
+}
+
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+span.point{
+	color: $color-red;
+	font-size: 40px;
+}
+
+
+
+.zag2{
+	font-family: "Montserrat-Bold";
+	text-transform: uppercase;
+	font-size: 28px;
+	color: $color-grey;
+	line-height: 26px;
+}
+
+.ssil{
+	font-family: 'Montserrat-Regular';
+	color: $color-red;
+	font-size: 14px;
+	text-transform: uppercase;
+	&:hover{
+		text-decoration: none;
+		color: $color-red;
+	}
+}
+
+.text{
+	font-size: 15px;
+	font-family: 'OpenSans-Regular';
+	color: $text-color;
+}
+
+.bold{
+	font-size: 40px;
+
+}
+
+.we{
+	font-size: 16px;
+	color: $color-grey;
+	font-family: 'OpenSans-Regular';
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+
+.they{
+	font-size: 16px;
+	padding-top: 11px;
+	padding-bottom: 45px;
+}
+
+.MinPoint{
+	font-size: 30px;
+	color: $color-red;
+}
+
+.name{
+	font-family: "Montserrat-Bold";
+	font-size: 22px;
+	color: $color-grey;
+	text-transform: uppercase;
+}
+
+.web{
+	font-family: 'OpenSans-Regular';
+	font-size: 14px;
+	color: $color-red;
+}
+
+.cofee{
+	font-size: 14px;
+	font-family: 'OpenSans-Regular';
+	color: $text-color;
+}
+
+.pad-top{
+	padding-top: 80px;
+}
+
+.peace{
+	padding-bottom: 15px;
+}
+
+.safe{
+	padding-top: 30px;
+}
+
+.vis{
+	margin-top: 100px;
+}
+.nePhoto{
+	padding-top: 53px;
+}
+
+.more{
+	display: block;
+	padding-bottom: 45px;
+}
+
+.our{
+	padding-top: 100px;
+}
+
+.minus{
+	padding-right: 0;
+}
+
+.minus2{
+	padding-left: 0;
+}
+
+.minus img{
+	border-radius: 80px;
+
+}
+
+.float{
+	float: right;
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+
+footer{
+	.line{
+	border-top: 1px solid $text-color;
+	.left{
+   a{
+   	padding-right: 15px;
+   	font-size: 20px;
+   	color: $text-color;
+   }
+	}
+	.right{
+		float: right;
+		color: $text-color;
+	}
+}
+}
