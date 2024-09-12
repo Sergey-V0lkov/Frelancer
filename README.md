@@ -11,4 +11,5 @@
 - JavaScript :heavy_multiplication_x:
 ---
 Чтобы скачать себе данный проект, следуйте инструкции по ссылке: :point_down:
+
 https://github.com/Sergey-V0lkov/Austera/blob/main/INSTRUCTION.md
