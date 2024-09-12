@@ -23,7 +23,7 @@
  
 ## Шаг 4
 
-Готово, в браузере откроется проект Austera
+Готово, в браузере откроется проект Frelancer
 
 ![Screenshot_10](https://github.com/user-attachments/assets/51007350-74d6-493d-9cb5-fcf3742b1c05)
 
